@@ -1,0 +1,30 @@
+//Add a link to your data object, and use v-bind to sync it up with an anchor tag in your HTML. Hint: you’ll be binding to the href attribute.
+
+JS
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    product: 'Socks',
+    image: 'https://www.vuemastery.com/images/challenges/vmSocks-green-onWhite.jpg'
+  } 
+})
+
+HTML
+
+<div id="app">
+
+  <div class="product">
+
+    <div class="product-image">
+      <img v-bind:src="image" />
+    </div>
+
+    <div class="product-info">
+      <h1>{{ product }}</h1>
+    </div>
+
+  </div>  
+</div> 
+
+ <script src="https://cdn.jsdelivr.net/npm/vue@2.5.13/dist/vue.js"></script>
