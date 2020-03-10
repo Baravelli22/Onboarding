@@ -1,0 +1,29 @@
+//Add a description to the data object with the value "A pair of warm, fuzzy socks". 
+Then display the description using an expression in an p element, underneath the h1.
+
+JS
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    product: 'Socks',
+    description: 'A pair of warm, fuzzy socks'
+  } 
+})
+
+HTML
+
+<div id="app">
+  
+  <div class="product-image">
+    <img src="" />
+  </div>
+
+  <div class="product-info">
+    <h1>{{ product }}</h1>
+    <h2>{{ description }}</h2>
+  </div>
+
+</div> 
+
+ <script src="https://cdn.jsdelivr.net/npm/vue@2.5.13/dist/vue.js"></script>
