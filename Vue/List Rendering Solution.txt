@@ -1,0 +1,61 @@
+//Add an array of sizes to the data and use v-for to display them in a list. 
+
+JS
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    product: 'Socks',
+    image: 'https://www.vuemastery.com/images/challenges/vmSocks-green-onWhite.jpg',
+    inStock: true,
+    details: ['80% cotton', '20% polyester', 'Gender-neutral'],
+    variants: [
+      {
+        variantId: 2234,
+        variantColor: 'green'    
+      },
+      {
+        variantId: 2235,
+        variantColor: 'blue'
+      }
+    ],
+    sizes: [36, 37, 38, 39, 40]
+  } 
+})
+
+HTML
+
+<div class="nav-bar"></div>
+
+<div id="app">
+  
+  <div class="product">
+  
+    <div class="product-image">
+      <img :src="image" />
+    </div>
+
+    <div class="product-info">
+      <h1>{{ product }}</h1>
+      <p v-if="inStock">In Stock</p>
+      <p v-else>Out of Stock</p>
+
+      <ul>
+        <li v-for="detail in details">{{ detail }}</li>
+      </ul>
+
+      <div v-for="variant in variants" :key="variant.variantId">
+        <p>{{ variant.variantColor }}</p>
+      </div>
+      <p>Sizes:</p>
+      <ul>
+        <p v-for="sizes">{{ sizes }}</p>
+      </ul>
+      
+    </div>  
+    
+  </div>
+  
+</div> 
+
+ <script src="https://cdn.jsdelivr.net/npm/vue@2.5.13/dist/vue.js"></script>
