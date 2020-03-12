@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\paolo.baravelli\\Desktop\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\paolo.baravelli\\Desktop\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\paolo.baravelli\\Desktop\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj",
+        "projectName": "CityInfo.API",
+        "projectPath": "C:\\Users\\paolo.baravelli\\Desktop\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj",
+        "packagesPath": "C:\\Users\\paolo.baravelli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paolo.baravelli\\Desktop\\CityInfo\\src\\CityInfo.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\paolo.baravelli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "http://NuGetGallery/NuGetGallery/api/v2": {},
+          "http://tfs:8080/tfs/ELfo/_packaging/NuGetFeed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.AspNetCore.Server.IISIntegration": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.AspNetCore.Server.Kestrel": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "dotnet5.6",
+            "portable-net45+win8"
+          ]
+        }
+      }
+    }
+  }
+}

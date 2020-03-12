@@ -1,0 +1,11 @@
+C:\Users\paolo.baravelli\Desktop\vs2017_core1\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.deps.json
+C:\Users\paolo.baravelli\Desktop\vs2017_core1\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.runtimeconfig.json
+C:\Users\paolo.baravelli\Desktop\vs2017_core1\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.runtimeconfig.dev.json
+C:\Users\paolo.baravelli\Desktop\vs2017_core1\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.dll
+C:\Users\paolo.baravelli\Desktop\vs2017_core1\end\CityInfo\src\CityInfo.API\bin\Debug\netcoreapp1.0\CityInfo.API.pdb
+C:\Users\paolo.baravelli\Desktop\vs2017_core1\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.csprojAssemblyReference.cache
+C:\Users\paolo.baravelli\Desktop\vs2017_core1\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Users\paolo.baravelli\Desktop\vs2017_core1\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.AssemblyInfoInputs.cache
+C:\Users\paolo.baravelli\Desktop\vs2017_core1\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.AssemblyInfo.cs
+C:\Users\paolo.baravelli\Desktop\vs2017_core1\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.dll
+C:\Users\paolo.baravelli\Desktop\vs2017_core1\end\CityInfo\src\CityInfo.API\obj\Debug\netcoreapp1.0\CityInfo.API.pdb

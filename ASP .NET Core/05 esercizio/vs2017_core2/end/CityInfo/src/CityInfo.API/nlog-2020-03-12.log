@@ -1,0 +1,9 @@
+2020-03-12 09:33:31.7128|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:1028/  
+2020-03-12 09:33:31.7128|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 DEBUG http://localhost:1028/  0
+2020-03-12 09:33:31.9075|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 264.6947ms 200 
+2020-03-12 09:33:32.1451|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 512.4014ms 404 text/plain
+2020-03-12 09:33:35.4122|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:1028/api/cities  
+2020-03-12 09:33:35.5923|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method CityInfo.API.Controllers.CitiesController.GetCities (CityInfo.API) with arguments ((null)) - ModelState is Valid
+2020-03-12 09:33:35.6279|INFO|Microsoft.AspNetCore.Mvc.Internal.ObjectResultExecutor|Executing ObjectResult, writing value Microsoft.AspNetCore.Mvc.ControllerContext.
+2020-03-12 09:33:35.8261|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action CityInfo.API.Controllers.CitiesController.GetCities (CityInfo.API) in 279.5773ms
+2020-03-12 09:33:35.8360|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 419.8377ms 200 application/json; charset=utf-8
