@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paolo.baravelli\\Desktop\\vs2017_core2\\end\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj": {}
+    "C:\\Users\\paolo.baravelli\\Documents\\GitHub\\Onboarding\\ASP .NET Core\\05 esercizio\\vs2017_core2\\end\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paolo.baravelli\\Desktop\\vs2017_core2\\end\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj": {
+    "C:\\Users\\paolo.baravelli\\Documents\\GitHub\\Onboarding\\ASP .NET Core\\05 esercizio\\vs2017_core2\\end\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paolo.baravelli\\Desktop\\vs2017_core2\\end\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj",
+        "projectUniqueName": "C:\\Users\\paolo.baravelli\\Documents\\GitHub\\Onboarding\\ASP .NET Core\\05 esercizio\\vs2017_core2\\end\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj",
         "projectName": "CityInfo.API",
-        "projectPath": "C:\\Users\\paolo.baravelli\\Desktop\\vs2017_core2\\end\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj",
+        "projectPath": "C:\\Users\\paolo.baravelli\\Documents\\GitHub\\Onboarding\\ASP .NET Core\\05 esercizio\\vs2017_core2\\end\\CityInfo\\src\\CityInfo.API\\CityInfo.API.csproj",
         "packagesPath": "C:\\Users\\paolo.baravelli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paolo.baravelli\\Desktop\\vs2017_core2\\end\\CityInfo\\src\\CityInfo.API\\obj\\",
+        "outputPath": "C:\\Users\\paolo.baravelli\\Documents\\GitHub\\Onboarding\\ASP .NET Core\\05 esercizio\\vs2017_core2\\end\\CityInfo\\src\\CityInfo.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
